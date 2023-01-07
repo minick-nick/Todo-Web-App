@@ -1,0 +1,29 @@
+body {
+  background-color: #121212;
+  color: white;
+}
+
+tr {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.card {
+  margin-bottom: 10px;
+  background-color: #292727;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+
+.form-check-label {
+  margin-left: 10px;
+}
+
+.modal-body .form-control {
+  background-color: #292727;
+  color: white;
+}
+
